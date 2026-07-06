@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ranarahul02/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ranarahul02/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ranarahul02/DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ranarahul02/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ranarahul02/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ranarahul02/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ranarahul02/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ranarahul02/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
