@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ranarahul02/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ranarahul02/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Ranarahul02/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Ranarahul02/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ranarahul02/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ranarahul02/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Ranarahul02/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ranarahul02/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ranarahul02/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
