@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ranarahul02/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Ranarahul02/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ranarahul02/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/1314-matrix-block-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ranarahul02/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ranarahul02/DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ranarahul02/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ranarahul02/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/1314-matrix-block-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ranarahul02/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ranarahul02/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ranarahul02/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
