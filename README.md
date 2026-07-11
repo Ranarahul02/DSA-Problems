@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ranarahul02/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ranarahul02/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ranarahul02/DSA-Problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ranarahul02/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ranarahul02/DSA-Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Ranarahul02/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranarahul02/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ranarahul02/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0344-reverse-string) |
