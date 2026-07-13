@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Ranarahul02/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ranarahul02/DSA-Problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ranarahul02/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ranarahul02/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ranarahul02/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Ranarahul02/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Ranarahul02/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/1314-matrix-block-sum) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ranarahul02/DSA-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ranarahul02/DSA-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
