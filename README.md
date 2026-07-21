@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ranarahul02/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ranarahul02/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranarahul02/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ranarahul02/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ranarahul02/DSA-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ranarahul02/DSA-Problems/tree/master/0238-product-of-array-except-self) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ranarahul02/DSA-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ranarahul02/DSA-Problems/tree/master/0169-majority-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ranarahul02/DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranarahul02/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Ranarahul02/DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Ranarahul02/DSA-Problems/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ranarahul02/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ranarahul02/DSA-Problems/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ranarahul02/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ranarahul02/DSA-Problems/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ranarahul02/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ranarahul02/DSA-Problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Prefix Sum
