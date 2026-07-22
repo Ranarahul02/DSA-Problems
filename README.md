@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ranarahul02/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ranarahul02/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ranarahul02/DSA-Problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Two Pointers
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ranarahul02/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
