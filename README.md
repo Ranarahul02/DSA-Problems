@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranarahul02/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ranarahul02/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Ranarahul02/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ranarahul02/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ranarahul02/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0344-reverse-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ranarahul02/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ranarahul02/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
