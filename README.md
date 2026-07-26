@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ranarahul02/DSA-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ranarahul02/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Ranarahul02/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ranarahul02/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ranarahul02/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ranarahul02/DSA-Problems/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ranarahul02/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ranarahul02/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranarahul02/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Ranarahul02/DSA-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Ranarahul02/DSA-Problems/tree/master/0875-koko-eating-bananas) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1314-matrix-block-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/1314-matrix-block-sum) |
 ## Recursion
 |  |
