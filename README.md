@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ranarahul02/DSA-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ranarahul02/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Ranarahul02/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ranarahul02/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Ranarahul02/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Ranarahul02/DSA-Problems/tree/master/0904-fruit-into-baskets) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ranarahul02/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Ranarahul02/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Ranarahul02/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ranarahul02/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ranarahul02/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Ranarahul02/DSA-Problems/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
