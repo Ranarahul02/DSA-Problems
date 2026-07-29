@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ranarahul02/DSA-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ranarahul02/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ranarahul02/DSA-Problems/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Ranarahul02/DSA-Problems/tree/master/0509-fibonacci-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ranarahul02/DSA-Problems/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Ranarahul02/DSA-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
