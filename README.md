@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ranarahul02/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Ranarahul02/DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ranarahul02/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ranarahul02/DSA-Problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ranarahul02/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Ranarahul02/DSA-Problems/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ranarahul02/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ranarahul02/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Ranarahul02/DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ranarahul02/DSA-Problems/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Ranarahul02/DSA-Problems/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
