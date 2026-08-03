@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ranarahul02/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Ranarahul02/DSA-Problems/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Ranarahul02/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -285,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ranarahul02/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ranarahul02/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ranarahul02/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ranarahul02/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
