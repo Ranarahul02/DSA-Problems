@@ -383,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ranarahul02/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Ranarahul02/DSA-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
