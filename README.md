@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ranarahul02/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ranarahul02/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ranarahul02/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Ranarahul02/DSA-Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Ranarahul02/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Ranarahul02/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ranarahul02/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ranarahul02/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Ranarahul02/DSA-Problems/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Ranarahul02/DSA-Problems/tree/master/1314-matrix-block-sum) |
 ## Recursion
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ranarahul02/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Ranarahul02/DSA-Problems/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Ranarahul02/DSA-Problems/tree/master/0867-transpose-matrix) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ranarahul02/DSA-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
