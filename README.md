@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Ranarahul02/DSA-Problems/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Ranarahul02/DSA-Problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Ranarahul02/DSA-Problems/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/Ranarahul02/DSA-Problems/tree/master/0627-swap-sex-of-employees) |
 ## String Matching
 |  |
 | ------- |
