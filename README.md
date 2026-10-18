@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ranarahul02/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/Ranarahul02/DSA-Problems/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Ranarahul02/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ranarahul02/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ranarahul02/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
